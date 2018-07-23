@@ -29,5 +29,16 @@ Javadoc
 Java Doc is generated in target/apidocs 
 you can open index.html in the browser to see all javaDoc.
 
-
-
+Travis CI
+---------------------
+* travis used for continuous integration 
+---------------------
+    
+ https://travis-ci.org/yboug/mowitnow
+ 
+Code coverage
+---------------------
+* CodCov
+---------------------
+    
+ https://codecov.io/gh/yboug/mowitnow/
