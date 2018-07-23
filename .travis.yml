@@ -1,0 +1,6 @@
+language: java
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
+env:
+  global:
+    - CODECOV_TOKEN=:2c46f314-28cf-47ed-bf9b-59dff95d7a4e
