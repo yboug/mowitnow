@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/yboug/mowitnow.svg?branch=master)](https://travis-ci.org/yboug/mowitnow)
-
+[![codecov](https://codecov.io/gh/yboug/mowitnow/branch/master/graph/badge.svg)](https://codecov.io/gh/yboug/mowitnow)
 # mowitnow
 
 Summary
