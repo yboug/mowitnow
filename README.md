@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yboug/mowitnow.svg?branch=master)](https://travis-ci.org/yboug/mowitnow)
+
 # mowitnow
 
 Summary
