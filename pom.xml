@@ -168,7 +168,6 @@
                             <limits>
                                 <limit>
                                     <counter>CLASS</counter>
-                                    <value>COVEREDRATIO</value>
                                     <minimum>${jacoco.minimum.coverage}</minimum>
                                 </limit>
                             </limits>
